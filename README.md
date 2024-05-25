@@ -18,3 +18,16 @@ Elections are fundamental processes in democratic societies, where citizens have
 
 <b>Participation:</b> Elections encourage civic engagement and participation, strengthening democracy and societal cohesion.
 
+
+
+
+
+Here’s a breakdown of what my dashboard includes:
+
+PieChart: This visualization displays the number of votes received by each party, providing a clear comparison of their popularity among voters.
+
+StackedBarChart: This chart shows the margin of victory and losses, helping to understand the competitiveness of the elections in different states.
+
+BarChart: This represents the number of seats won by each party, offering insight into their overall performance.
+Additionally, I have included data on the distribution of votes across different states to give a regional perspective on the election results.
+
